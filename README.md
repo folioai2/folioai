@@ -129,9 +129,9 @@ We welcome contributions to Crypto Agent Pro! To contribute:
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Acknowledgments
-	•	Pump.fun
-	•	Jupiter V6 API
-	•	Raydium
-	•	Prometheus
+- Pump.fun
+- Jupiter V6 API
+- Raydium
+- Prometheus
 
 This README provides a structured and professional overview of your Rust-based project, tailored to attract users and contributors alike. Let me know if you’d like to add more technical details or diagrams!
