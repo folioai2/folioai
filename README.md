@@ -97,8 +97,8 @@ API_KEY_RAYDIUM=your_rayidium_api_key
   •	Add, remove, or categorize tokens in your portfolio.
   •	Monitor balances and allocations.
 
-## Roadmap
-	1.	Add support for additional DEX platforms.
+## Roadmap (Q1 2025)
+	1.	Add support for additional DEX platforms. 
 	2.	Introduce cross-chain swap capabilities.
 	3.	Enhance AI-driven analytics for market predictions.
 	4.	Improve UI/UX for seamless navigation.
